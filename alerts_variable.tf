@@ -1,0 +1,10 @@
+variable "resource_group" {}
+variable "project" {}
+variable "product" {}
+variable "environment" {}
+variable "location_suffix" {}
+variable "downscale" {}
+variable "upscale" {}
+variable "dbdownscalethreshold" {}
+variable "dbupscalethreshold" {}
+variable "dbmindtulimit" {}
