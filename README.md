@@ -7,7 +7,7 @@ As Azure PowerShell migrate from AzureRM to Az
 https://docs.microsoft.com/en-us/powershell/azure/migrate-from-azurerm-to-az?view=azps-6.4.0
 
 Required modules added to Automation Account: 
-Az.AlertsManagement
-Az.Automation
-Az.Sql
-Az.Accounts 
+- Az.AlertsManagement
+- Az.Automation
+- Az.Sql
+- Az.Accounts 
