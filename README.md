@@ -1,4 +1,4 @@
-# autoscalling-azure-sql-database
+# autoscalling-azure-sql-database with implementation in terraform
 
 Based on https://techcommunity.microsoft.com/t5/azure-database-support-blog/how-to-auto-scale-azure-sql-databases/ba-p/2235441
 https://hbuckle.github.io/terraform/2018/03/08/creating-azure-automation-webhooks-with-terraform.html
