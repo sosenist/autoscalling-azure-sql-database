@@ -1,5 +1,5 @@
 # how-to-autoscale-Azure-SQL-database
-This solutions allows you to automatically scale Azure SQL databases and implement it automatically on a new environments via Terraform (and ARM injected into Terraform)
+This solution allows you to automatically scale Azure SQL databases and implement it automatically on a new environments via Terraform (and ARM injected into Terraform)
 
 1. Overview
 
